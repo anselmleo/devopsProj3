@@ -33,4 +33,11 @@
 <img width="1012" alt="Screen Shot 2023-04-05 at 7 13 48 PM" src="https://user-images.githubusercontent.com/30025376/230328039-81ed15ec-2253-4869-8cad-fc9b324d8980.png">
 <img width="989" alt="Screen Shot 2023-04-05 at 7 14 55 PM" src="https://user-images.githubusercontent.com/30025376/230328045-8eb4e96e-2b5f-4398-a2b0-88577298e027.png">
 
+- Step 14: Setup client application with npx
+
+<img width="1403" alt="Screen Shot 2023-04-06 at 5 39 45 PM" src="https://user-images.githubusercontent.com/30025376/230442748-86c1c649-d91e-42cf-9a35-4d09385dafc5.png">
+
+- Step 15: create Todo components
+- Step 16: Install Axios
+- Step 17: 
 
